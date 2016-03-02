@@ -1,0 +1,14 @@
+{
+  "name": "slackbot-fixdoliveira",
+  "version": "1.0.0",
+  "description": "Slack bot to fix David Oliveira's messages",
+  "main": "lib/fix-doliveira.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "slackbots": "0.5.1"
+  }
+}
