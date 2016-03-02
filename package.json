@@ -1,12 +1,12 @@
 {
-  "name": "slackbot-fixdoliveira",
+  "name": "slackbot-fixmessages",
   "version": "1.0.0",
-  "description": "Slack bot to fix David Oliveira's messages",
-  "main": "lib/fix-doliveira.js",
+  "description": "Repeates stuff people say on slack after fixing the text with user-specific functions",
+  "main": "lib/fixMessages.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "André Santos",
   "license": "ISC",
   "dependencies": {
     "slackbots": "0.5.1"
