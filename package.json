@@ -9,6 +9,6 @@
   "author": "André Santos",
   "license": "ISC",
   "dependencies": {
-    "slackbots": "0.5.1"
+    "slackbots": "1.0.2"
   }
 }
